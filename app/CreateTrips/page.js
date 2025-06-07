@@ -282,7 +282,7 @@ const CreateTrips = () => {
                   /> */}
                   <GooglePlacesAutocomplete
                     apiKey={process.env.NEXT_PUBLIC_PLACE_API}
-                    // apiKey='AIzaSyDa7rpzIcu51FW-BUNXg2WmR4eB6pSA6lA'
+                   
                     selectProps={{
                       places,
                       onChange: (v) => { setPlaces(v); handleInput('location', v) }
