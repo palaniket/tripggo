@@ -1,38 +1,28 @@
-NotesAi 📝🤖
+TrippGo 🌍✈️
 
-NotesAi is a full-stack AI-powered note-taking and knowledge management tool. It lets you upload, organize, and query your notes or documents with the help of AI. Whether you’re a student, developer, or researcher, NotesAi makes it effortless to store information and have meaningful conversations with your notes.
+TrippGo is a modern travel planning application designed to make your trips effortless and memorable. From discovering destinations to managing itineraries, TrippGo brings everything you need for smooth travel into one place.
+
 
 
 
 ✨ Features
 
-📂 Smart Document Management – Upload and organize PDFs, text files, and notes.
-
-🔍 AI-Powered Search – Ask natural-language questions and get contextual answers.
-
-💬 Chat with Notes – Converse with your uploaded documents using an integrated LLM.
-
-🧠 Summarization – Generate concise summaries of lengthy content.
-
-🖥 User-Friendly Interface – Clean, responsive design for seamless usage.
-
-🔐 Authentication – Secure login and private notes per user.
-
-
+🗺 Destination Discovery – Explore top-rated travel spots with detailed info.
+📅 Smart Itinerary Builder – Plan day-to-day activities with ease.
+💰 Budget Tracking – Keep your expenses under control during trips.
+📌 Save & Share – Bookmark favorite places and share itineraries with friends.
+🌤 Live Weather Updates – Get accurate forecasts for your travel dates.
+📱 Responsive UI – Optimized for desktop and mobile.
 
 
 🛠 Tech Stack
 
-Frontend: React.js, Tailwind CSS, ShadcnUi 
+Frontend: React.js, Tailwind CSS, Javascript, ShadcnUi
 
-Backend: Node.js , Express.js 
+Backend: Node.js , Express
 
-Database: ConvexDB
+Database: MongoDB
 
-AI Integration: OpenAi Api, Gemini Api
-
-Authentication: Clerk
+APIs: Google Places API, OpenWeather API (or whatever you used), Gemini Api
 
 Deployment: Vercel
-
-
